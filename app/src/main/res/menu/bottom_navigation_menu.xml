@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/icon_profile"
+        android:title="Profile" />
+    <item
+        android:id="@+id/navigation_chat"
+        android:icon="@drawable/icon_chat"
+        android:title="Chat" />
+
+    <item
+        android:id="@+id/all_users"
+        android:icon="@drawable/icon_suggestions"
+        android:title="Suggestions" />
+    <item
+        android:id="@+id/post"
+        android:icon="@drawable/icon_post"
+        android:title="Post" />
+</menu>

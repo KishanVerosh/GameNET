@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859797323398",
+    "project_id": "gamenet-cdc14",
+    "storage_bucket": "gamenet-cdc14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859797323398:android:8eef64cf240d8d52029b07",
+        "android_client_info": {
+          "package_name": "com.example.gamenet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_LbzjGK2MPZWEipVpu5Dw2qNiri4oh6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
